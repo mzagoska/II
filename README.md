@@ -1,1 +1,1 @@
-# II
+# Repository for AI labs
